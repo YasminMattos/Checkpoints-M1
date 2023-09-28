@@ -49,8 +49,8 @@ const frutas = ["Manzana", "Mango", "Pera", "Higo", "Sandía", "Durazno"]
 const persona = {
   nombre: "Mike",
   edad: 22,
-  ciudad: "Lima"
-}
+  ciudad: "Lima",
+};
 
 module.exports = {
   nombre,
